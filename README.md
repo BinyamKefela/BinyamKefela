@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BinyamKefela
-- 👀 I’m interested in web development and android develoment as well designing of algorithms
+- 👀 I’m interested in web development including frontend, backend, fullstack, and android develoment as well designing of algorithms
 - 💞️ I’m looking to collaborate on Django web development, ASP.NET web development, ReactJS development or android development
 - 📫 you can reach me by my email binyamkefela196@gmail.com
 
